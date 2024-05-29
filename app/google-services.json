@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "959022287342",
+    "firebase_url": "https://uomplant-default-rtdb.firebaseio.com",
+    "project_id": "uomplant",
+    "storage_bucket": "uomplant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959022287342:android:f5b19db40645cfe8d4e6ff",
+        "android_client_info": {
+          "package_name": "com.grzeluu.plantcareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959022287342-q9a9ge59fb4kvr4jqdqjkvo51tpttb3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grzeluu.plantcareapp",
+            "certificate_hash": "93879d827e97afd082ee533b9749b21dd9fcaeab"
+          }
+        },
+        {
+          "client_id": "959022287342-eeu79uqiqp1oeufiupk8mufqqfbicvbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpO2ujko_OchBjvvVIdTAaYxcos7A87Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959022287342-eeu79uqiqp1oeufiupk8mufqqfbicvbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
